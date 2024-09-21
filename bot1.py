@@ -9,7 +9,7 @@ import logging
 logging.basicConfig(level=logging.DEBUG)
 
 # Замість 'YOUR_BOT_TOKEN' вставте токен вашого бота
-bot = telebot.TeleBot('7482897990:AAHDiR6qNIVY_HGEd_jco7gg4q2Ffkwv5jg')
+bot = telebot.TeleBot('7238371402:AAEvizojibQlBT2JMoVo2Z4-46899erjvDc')
 
 # Змінні для збереження даних користувача
 user_data = {}
